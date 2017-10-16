@@ -13,6 +13,7 @@ WriteMakefile(
         'Tony Monroe <tmonroe plus perl at nog dot net>',
         'Paul Cochrane <paul@liekut.de>',
     ],
+    LICENSE          => 'perl_5',
 );
 
 # vim: expandtab shiftwidth=4
