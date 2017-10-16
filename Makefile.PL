@@ -22,6 +22,17 @@ WriteMakefile(
         'Test::More'            => 0,
         'Test::Kwalitee::Extra' => 0,
     },
+    META_MERGE => {
+        "meta-spec" => { version => 2 },
+        resources   => {
+            repository => {
+                type => 'git',
+                url  => 'git@github.com:paultcochrane/Math-Base85.git',
+                web  => 'https://github.com/paultcochrane/Math-Base85',
+            },
+        },
+
+    },
 );
 
 # vim: expandtab shiftwidth=4
