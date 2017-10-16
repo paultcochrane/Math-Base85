@@ -1,6 +1,7 @@
 package Math::Base85;
 
 use strict;
+use warnings;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK $base85_digits);
 
 use Carp;
