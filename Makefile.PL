@@ -6,7 +6,7 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(
     'NAME'	=> 'Math::Base85',
-    'VERSION_FROM' => 'Base85.pm', # finds $VERSION
+    'VERSION_FROM' => 'lib/Math/Base85.pm', # finds $VERSION
 );
 
 # vim: expandtab shiftwidth=4

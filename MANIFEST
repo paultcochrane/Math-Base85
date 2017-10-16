@@ -1,4 +1,4 @@
-Base85.pm
+lib/Math/Base85.pm
 Changes
 MANIFEST
 Makefile.PL
