@@ -3,6 +3,7 @@
 ^.git
 .releaserc
 .swp$
+.appveyor.yml
 .travis.yml
 ^blib
 ^cover_db
