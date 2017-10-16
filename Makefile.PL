@@ -15,7 +15,7 @@ WriteMakefile(
     ],
     LICENSE          => 'perl_5',
     MIN_PERL_VERSION => 5.006,
-    BUILD_REQUIRES   => {
+    PREREQ_PM   => {
         'constant' => 0,
         'strict' => 0,
         'vars' => 0,
