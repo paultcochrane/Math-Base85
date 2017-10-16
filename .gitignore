@@ -1,3 +1,4 @@
+*.bak
 MYMETA.*
 Makefile
 Makefile.old
