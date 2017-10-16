@@ -18,6 +18,10 @@ WriteMakefile(
     BUILD_REQUIRES   => {
         'Math::BigInt' => '0',
     },
+    TEST_REQUIRES => {
+        'Test::More'            => 0,
+        'Test::Kwalitee::Extra' => 0,
+    },
 );
 
 # vim: expandtab shiftwidth=4
