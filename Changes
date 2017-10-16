@@ -8,7 +8,6 @@ Revision history for Perl module Math::Base85.
 	- Update author and repo information to point to new locations
 	- Add more explicit license information
 
-
 0.2     Fri May 03 09:11:41 PDT 2002
 	- Initial zeroes fix from Jyrki Soini <jyrki dot soini at
 	  sonera dot com>.
