@@ -9,7 +9,7 @@ use Carp;
 use Exporter;
 use Math::BigInt qw(:constant);
 
-$VERSION = '0.3.1';
+$VERSION = '0.4';
 
 @ISA = qw(Math::BigInt);
 @EXPORT = qw();
