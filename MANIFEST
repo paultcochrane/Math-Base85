@@ -6,7 +6,6 @@ MANIFEST
 MANIFEST.SKIP
 META.json
 META.yml
-README
 README.md
 rfc1924.txt
 t/00-basic.t
