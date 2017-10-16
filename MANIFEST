@@ -2,6 +2,6 @@ Base85.pm
 Changes
 MANIFEST
 Makefile.PL
-test.pl
+t/00-basic.t
 README
 rfc1924.txt
