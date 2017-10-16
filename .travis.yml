@@ -15,4 +15,4 @@ env:
     - RELEASE_TESTING=1
 
 install:
-    - cpanm --installdeps .
+    - cpanm --installdeps --no-skip-satisfied . || { cat ~/.cpanm/build.log ; false ; }
