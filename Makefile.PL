@@ -15,6 +15,9 @@ WriteMakefile(
     ],
     LICENSE          => 'perl_5',
     MIN_PERL_VERSION => 5.006,
+    BUILD_REQUIRES   => {
+        'Math::BigInt' => '0',
+    },
 );
 
 # vim: expandtab shiftwidth=4
