@@ -1,6 +1,7 @@
 ~$
 .bak$
 ^.git
+.releaserc
 .swp$
 .travis.yml
 ^blib
