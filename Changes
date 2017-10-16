@@ -1,5 +1,8 @@
 Revision history for Perl module Math::Base85.
 
+v0.3.1 2017-10-16T17:27:24Z
+	- Move deps from build to runtime; patch courtesy of Dan Book <grinnz@gmail.com>
+
 0.3 2017-10-16T16:39:34Z
 	- Add metadata to distribution
 	- Update directory structure to more standard Perl module structure
