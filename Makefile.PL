@@ -14,6 +14,7 @@ WriteMakefile(
         'Paul Cochrane <paul@liekut.de>',
     ],
     LICENSE          => 'perl_5',
+    MIN_PERL_VERSION => 5.006,
 );
 
 # vim: expandtab shiftwidth=4
