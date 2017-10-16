@@ -2,8 +2,7 @@
 MYMETA.*
 Makefile
 Makefile.old
-Math-Base85*.tar.gz
+Math-Base85-*
 blib/
 cover_db/
 pm_to_blib
-Math-Base85-*/
