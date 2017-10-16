@@ -46,10 +46,10 @@ use.  (They will be exported upon request.)
 
 =cut
 
-$Math::Base85::base85_digits = join('', 
-    '0' .. '9', 
-    'A' .. 'Z', 
-    'a' .. 'z', 
+$Math::Base85::base85_digits = join('',
+    '0' .. '9',
+    'A' .. 'Z',
+    'a' .. 'z',
     '!', '#', qw/$ % & ( ) * + - ; < = > ? @ ^ _ ` { | } ~/,
 );
 
