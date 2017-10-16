@@ -16,9 +16,16 @@ WriteMakefile(
     LICENSE          => 'perl_5',
     MIN_PERL_VERSION => 5.006,
     BUILD_REQUIRES   => {
+        'constant' => 0,
+        'strict' => 0,
+        'vars' => 0,
+        'warnings' => 0,
+        'Carp' => 0,
+        'Exporter' => 0,
         'Math::BigInt' => '0',
     },
     TEST_REQUIRES => {
+        'Test' => 0,
         'Test::More'            => 0,
     },
     META_MERGE => {
