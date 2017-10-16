@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK $base85_digits);
 
+use 5.006;
 use Carp;
 use Exporter;
 use Math::BigInt qw(:constant);
