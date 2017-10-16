@@ -138,6 +138,13 @@ Paul Cochrane <paul@liekut.de>  (maintainer)
 
 =back
 
+=head1 COPYRIGHT AND LICENSE
+
+Copyright (c) 2001-2002, Tony Monroe <tmonroe+perl@nog.net>. All rights reserved.
+Copyright (c) 2017, Paul Cochrane <paul@liekut.de>. All rights reserved.
+
+You may use this software under the same terms as Perl itself.
+
 =head1 SEE ALSO
 
 perl(1).
@@ -145,4 +152,5 @@ perl(1).
 =cut
 
 1;
-__END__
+
+# vim: expandtab shiftwidth=4
