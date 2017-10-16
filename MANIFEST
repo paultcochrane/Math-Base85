@@ -1,5 +1,6 @@
 lib/Math/Base85.pm
 Changes
+LICENSE
 MANIFEST
 Makefile.PL
 t/00-basic.t
