@@ -11,8 +11,5 @@ perl:
     - "5.12"
     - "5.10"
 
-env:
-    - RELEASE_TESTING=1
-
 install:
     - cpanm --installdeps --no-skip-satisfied . || { cat ~/.cpanm/build.log ; false ; }

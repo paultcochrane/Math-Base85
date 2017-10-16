@@ -9,4 +9,3 @@ META.yml
 README.md
 rfc1924.txt
 t/00-basic.t
-t/99-kwalitee.t
