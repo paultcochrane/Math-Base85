@@ -124,9 +124,19 @@ sub to_base85
     return join('', @digits);
 }
 
-=head1 AUTHOR
+=head1 AUTHORS
+
+=over 4
+
+=item *
 
 Tony Monroe <tmonroe+perl@nog.net>
+
+=item *
+
+Paul Cochrane <paul@liekut.de>  (maintainer)
+
+=back
 
 =head1 SEE ALSO
 
