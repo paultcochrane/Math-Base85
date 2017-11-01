@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 use strict;
 
 use Math::BigInt;
@@ -26,3 +28,5 @@ my $p = "4)+k&C#VzJ4br>0wv%Yq";
 my $q = Math::Base85::from_base85($p);
 my $r = Math::BigInt->new("21932261930451111902915077091070067067");
 ok($q == $r);
+
+# vim: expandtab shiftwidth=4
