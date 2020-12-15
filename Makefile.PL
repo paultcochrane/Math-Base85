@@ -32,6 +32,9 @@ WriteMakefile(
         "meta-spec"    => { version => 2 },
         dynamic_config => 0,
         resources      => {
+            bugtracker => {
+                web => 'https://github.com/paultcochrane/Math-Base85/issues',
+            },
             repository => {
                 type => 'git',
                 url  => 'git@github.com:paultcochrane/Math-Base85.git',
