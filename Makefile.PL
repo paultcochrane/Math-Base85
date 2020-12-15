@@ -11,7 +11,7 @@ WriteMakefile(
     ABSTRACT_FROM => 'lib/Math/Base85.pm',
     AUTHOR        => [
         'Tony Monroe <tmonroe plus perl at nog dot net>',
-        'Paul Cochrane <paul@liekut.de>',
+        'Paul Cochrane <ptc@cpan.org>',
     ],
     LICENSE          => 'perl_5',
     MIN_PERL_VERSION => 5.006,
